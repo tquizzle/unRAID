@@ -4,7 +4,7 @@ unRAID
 unRAID Scripts and what-not
 
 
-### preclear_disk.sh
+### Preclear Disk
 
 To use preclear_disk.sh do the following...
 
