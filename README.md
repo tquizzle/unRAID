@@ -21,6 +21,7 @@ run ./preclear_disk.sh -h
 Bergware has a great webGUI for unRAID. https://github.com/bergware/dynamix
 
 ```
+mkdir /boot/plugins
 cd /boot/plugins
 wget --no-check-certificate https://raw.github.com/bergware/dynamix/master/plugins/dynamix.webGui-2.0.9-noarch-bergware.plg
 installplg dynamix.webGui-2.0.9-noarch-bergware.plg
