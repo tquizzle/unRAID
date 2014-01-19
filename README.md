@@ -24,6 +24,8 @@ Bergware has a great webGUI for unRAID. https://github.com/bergware/dynamix
 cd /boot/plugins
 wget --no-check-certificate https://raw.github.com/bergware/dynamix/master/plugins/dynamix.webGui-2.0.9-noarch-bergware.plg
 installplg dynamix.webGui-2.0.9-noarch-bergware.plg
+wget --no-check-certificate https://raw.github.com/bergware/dynamix/master/plugins/dynamix.plugin.control-2.0.2-noarch-bergware.plg
+installplg dynamix.plugin.control-2.0.2-noarch-bergware.plg
 ```
 Refresh your unRAID webGUI and see the awesomeness
 
